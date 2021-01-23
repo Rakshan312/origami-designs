@@ -1,0 +1,45 @@
+*{
+    border:solid;
+}
+.header{
+    background-color:yellowgreen;
+    display:flex;
+    justify-content : space-between;
+    border: solid;
+}
+.menu{
+    display:flex ;
+    padding : 5px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.bodyimg{
+    background-color:forestgreen;
+} 
+.grid{
+     background-color: forestgreen;
+     border-radius: 40px;
+}
+.origami{
+    border-radius: 40px;
+}
+.origami1{
+    background-color: lawngreen;
+    border-radius: 40px;
+}
+.origami2{
+    background-color: lawngreen;
+    border-radius: 40px;
+}
+.origami3{
+    background-color: lawngreen;
+    border-radius: 40px;
+}
+.head{
+    background-color: forestgreen;
+    border-radius: 40px;
+}
+.follow{
+    background-color: forestgreen;
+    border-radius: 15px;
+}
